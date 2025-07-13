@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentsDemo</string>
+    <string name="topBar">IntentsDemo</string>
+    <string name="name">Name</string>
+    <string name="done">Done</string>
+    <string name="nameKey">NAME</string>
+    <string name="noName">No name</string>
+</resources>
